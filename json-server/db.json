@@ -1,5 +1,26 @@
 {
-  "ports": [{ "id": 1, "title": "json-server", "author": "typecode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typecode" }
+  "useok": {
+    "name": "useok",
+    "age": 3,
+    "skill": [
+      { "id": 1, "skill": "들이박기" },
+      { "id": 2, "skill": "얄루" }
+    ]
+  },
+  "dseok": {
+    "name": "dseok",
+    "age": 3,
+    "skill": [
+      { "id": 1, "skill": "드러눕기" },
+      { "id": 2, "skill": "깝깝" }
+    ]
+  },
+  "hseok": {
+    "name": "hseok",
+    "age": 3,
+    "skill": [
+      { "id": 1, "skill": "얄리얄리" },
+      { "id": 2, "skill": "얄라셩" }
+    ]
+  }
 }
